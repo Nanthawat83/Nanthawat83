@@ -106,8 +106,6 @@
   </tr>
 </table>
 
-> 📌 *ทุกโปรเจกต์อยู่ในขั้นออกแบบและวางแผน จะอัปเดตลิงก์ Repository เมื่อเริ่มลงมือเขียนโค้ดจริง*
-
 <br/>
 
 ## 📊 GitHub Analytics
@@ -141,6 +139,8 @@
 
 ## 🗺️ Career Roadmap
 
+## 🗺️ Career Roadmap
+
 ```mermaid
 flowchart TD
     A["🎓 IT Student"] --> B["💻 Programming & OOP"]
@@ -154,7 +154,6 @@ flowchart TD
     G --> H["🛠️ Game Engine"]
     H --> I["🚀 Game Developer"]
 
-    %% กำหนดโทนสีให้เข้ากับธีมเดิม
     style A fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#fff
     style B fill:#161b22,stroke:#8957e5,stroke-width:2px,color:#fff
     style C fill:#161b22,stroke:#a371f7,stroke-width:2px,color:#fff
@@ -164,6 +163,7 @@ flowchart TD
     style G fill:#161b22,stroke:#db61a2,stroke-width:2px,color:#fff
     style H fill:#161b22,stroke:#f778ba,stroke-width:2px,color:#fff
     style I fill:#161b22,stroke:#f85149,stroke-width:2px,color:#fff
+```
 
 <details>
 <summary><b>🏁 เป้าหมายแต่ละช่วง (คลิกเพื่อดู)</b></summary>
