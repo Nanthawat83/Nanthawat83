@@ -8,8 +8,8 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Nutto1203-181717?style=for-the-badge&logo=github)](https://github.com/Nanthawat83)
-[![Profile Views](https://komarev.com/ghpvc/?username=Nutto1203&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS)](https://github.com/Nanthawat83)
+[![GitHub](https://img.shields.io/badge/GitHub-Nanthawat83-181717?style=for-the-badge&logo=github)](https://github.com/Nanthawat83)
+[![Profile Views](https://komarev.com/ghpvc/?username=Nanthawat83&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS)](https://github.com/Nanthawat83)
 [![Status](https://img.shields.io/badge/STATUS-LEARNING-00E5FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/Nanthawat83)
 
 **IT STUDENT @ KASETSART UNIVERSITY 🇹🇭**
@@ -43,19 +43,19 @@ education:
   status: "Undergraduate Student"
 
 current_role:
-  - "IT Student"
-  - "Aspiring Developer"
+- "IT Student"
+- "Aspiring Developer"
 
 primary_interests:
-  - Full-Stack Development
-  - Software Engineering
-  - Artificial Intelligence
-  - Game Development
-  - Animation Industry
+- Full-Stack Development
+- Software Engineering
+- Artificial Intelligence
+- Game Development
+- Animation Industry
 
 long_term_goal:
-  - "Software Engineer"
-  - "Game Engine Developer"
+- "Software Engineer"
+- "Game Engine Developer"
 
 mindset: "Always Learning & Improving"
 ```
@@ -241,23 +241,23 @@ mindset: "Always Learning & Improving"
 
 ### SYSTEM PERFORMANCE
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nutto1203&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=090014&title_color=00E5FF&icon_color=BB86FC&text_color=E6E6FA&rank_icon=github" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nanthawat83&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=090014&title_color=00E5FF&icon_color=BB86FC&text_color=E6E6FA&rank_icon=github" width="100%"/>
 
 ### LANGUAGE DISTRIBUTION
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nutto1203&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=E6E6FA" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanthawat83&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=E6E6FA" width="48%"/>
 
 ### CONTRIBUTION STREAK
 
-<img src="https://streak-stats.demolab.com?user=Nutto1203&theme=tokyonight&hide_border=true&background=090014&ring=00E5FF&fire=BB86FC&currStreakLabel=00E5FF&sideLabels=E6E6FA" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Nanthawat83&theme=tokyonight&hide_border=true&background=090014&ring=00E5FF&fire=BB86FC&currStreakLabel=00E5FF&sideLabels=E6E6FA" width="100%"/>
 
 ### GITHUB TROPHIES
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nutto1203&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=10" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nanthawat83&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=10" width="100%"/>
 
 ### CONTRIBUTION GRAPH
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nutto1203&bg_color=090014&color=00E5FF&line=BB86FC&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CONTRIBUTION%20JOURNEY" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nanthawat83&bg_color=090014&color=00E5FF&line=BB86FC&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CONTRIBUTION%20JOURNEY" width="100%"/>
 
 </div>
 
@@ -340,7 +340,7 @@ mindset: "Always Learning & Improving"
 
 **LET'S LEARN, BUILD AND CREATE SOMETHING GREAT.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Nutto1203-181717?style=for-the-badge&logo=github)](https://github.com/Nanthawat83)
+[![GitHub](https://img.shields.io/badge/GitHub-Nanthawat83-181717?style=for-the-badge&logo=github)](https://github.com/Nanthawat83)
 
 [![Profile](https://img.shields.io/badge/Explore-My_Repositories-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Nanthawat83?tab=repositories)
 
