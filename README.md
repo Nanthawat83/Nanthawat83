@@ -142,26 +142,28 @@
 ## 🗺️ Career Roadmap
 
 ```mermaid
-flowchart LR
-    A["🎓 IT Student"] --> B["💻 Programming<br/>& OOP"]
-    B --> C["🗄️ Database<br/>& SQL"]
+flowchart TD
+    A["🎓 IT Student"] --> B["💻 Programming & OOP"]
+    B --> C["🗄️ Database & SQL"]
     C --> D["🌐 Full-Stack"]
-    D --> E["⚙️ Software<br/>Engineering"]
-    E --> F["🤖 AI &<br/>Automation"]
-    E --> G["🎮 Game<br/>Development"]
+    D --> E["⚙️ Software Engineering"]
+    
+    E --> F["🤖 AI & Automation"]
+    E --> G["🎮 Game Development"]
+    
     G --> H["🛠️ Game Engine"]
-    H --> I["🚀 Game Engine<br/>Developer"]
+    H --> I["🚀 Game Developer"]
 
-    style A fill:#1a103c,stroke:#00E5FF,stroke-width:2px,color:#fff
-    style B fill:#1a103c,stroke:#BB86FC,color:#fff
-    style C fill:#1a103c,stroke:#BB86FC,color:#fff
-    style D fill:#1a103c,stroke:#00E5FF,color:#fff
-    style E fill:#241044,stroke:#00E5FF,stroke-width:2px,color:#fff
-    style F fill:#102a2a,stroke:#00DFA2,stroke-width:2px,color:#fff
-    style G fill:#2d102a,stroke:#FF4D9D,stroke-width:2px,color:#fff
-    style H fill:#2d102a,stroke:#FF4D9D,color:#fff
-    style I fill:#3b0d1e,stroke:#FF4D4D,stroke-width:2px,color:#fff
-```
+    %% กำหนดโทนสีให้เข้ากับธีมเดิม
+    style A fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#fff
+    style B fill:#161b22,stroke:#8957e5,stroke-width:2px,color:#fff
+    style C fill:#161b22,stroke:#a371f7,stroke-width:2px,color:#fff
+    style D fill:#161b22,stroke:#388bfd,stroke-width:2px,color:#fff
+    style E fill:#161b22,stroke:#39c5cf,stroke-width:2px,color:#fff
+    style F fill:#161b22,stroke:#2ea043,stroke-width:2px,color:#fff
+    style G fill:#161b22,stroke:#db61a2,stroke-width:2px,color:#fff
+    style H fill:#161b22,stroke:#f778ba,stroke-width:2px,color:#fff
+    style I fill:#161b22,stroke:#f85149,stroke-width:2px,color:#fff
 
 <details>
 <summary><b>🏁 เป้าหมายแต่ละช่วง (คลิกเพื่อดู)</b></summary>
