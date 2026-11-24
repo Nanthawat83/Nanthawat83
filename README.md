@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:090014,35:241044,70:4B0082,100:00E5FF&text=Nanthawat83&fontSize=75&fontColor=FFFFFF&stroke=00E5FF&strokeWidth=1&animation=fadeIn&desc=DEVELOPER%20%7C%20GAMER%20%7C%20CREATOR&descSize=17&descAlignY=68" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Nut+%F0%9F%AB%A1;Aspiring+Full-Stack+Developer;Exploring+Software+Engineering;Dreaming+of+Game+Engine+Development;Learning+Today.+Building+Tomorrow." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A+%E0%B8%9C%E0%B8%A1%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD+%E0%B8%99%E0%B8%B1%E0%B8%97+%F0%9F%AB%A1;Aspiring+Full-Stack+Developer;Exploring+Software+Engineering;Dreaming+of+Game+Engine+Development;%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89+%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95" alt="Typing SVG"/>
 
 <br/>
 
@@ -12,173 +12,162 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Nanthawat83&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS)](https://github.com/Nanthawat83)
 [![Status](https://img.shields.io/badge/STATUS-LEARNING-00E5FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/Nanthawat83)
 
-**IT STUDENT @ KASETSART UNIVERSITY 🇹🇭**
+**นิสิตสาขาเทคโนโลยีสารสนเทศ มหาวิทยาลัยเกษตรศาสตร์ 🇹🇭**
 
-*Explore the unknown. Learn the impossible. Build the future.*
+*สำรวจสิ่งที่ไม่เคยรู้ เรียนรู้สิ่งที่ท้าทาย และลงมือสร้างอนาคตด้วยโค้ด*
 
 </div>
 
 ---
 
-<div align="center">
+## 🖥️ 01 — ข้อมูลส่วนตัว (SYSTEM PROFILE)
 
-# `[ SYSTEM INITIALIZED ]`
+### 📋 ข้อมูลพื้นฐาน
 
-**WELCOME TO MY DIGITAL SPACE**
-
-</div>
-
-## 🖥️ 01 — SYSTEM PROFILE
-
-### 📋 Identity & Overview
-
-| หัวข้อ (Attribute) | รายละเอียด (Details) |
+| หัวข้อ | รายละเอียด |
 |:---|:---|
-| **👤 Name / Alias** | Nanthawat (Nut / นัท) • `@Nanthawat83` |
-| **📍 Location** | Thailand 🇹🇭 |
-| **🎓 Education** | Undergraduate Student in **Information Technology**, Kasetsart University |
-| **💼 Current Role** | IT Student & Aspiring Software Developer |
-| **💡 Primary Interests** | Full-Stack Development, Software Engineering, Artificial Intelligence, Game Development, Animation Industry |
-| **🎯 Long-Term Goals** | Software Engineer & Game Engine Developer |
-| **🔥 Mindset** | *Always Learning & Improving* |
+| **👤 ชื่อ / ชื่อเล่น** | ณัฐวัฒน์ (นัท / Nut) • `@Nanthawat83` |
+| **📍 ที่อยู่** | ประเทศไทย 🇹🇭 |
+| **🎓 การศึกษา** | นิสิตปริญญาตรี สาขาเทคโนโลยีสารสนเทศ (Information Technology) มหาวิทยาลัยเกษตรศาสตร์ |
+| **💼 สถานะปัจจุบัน** | นิสิตสายไอที & กำลังฝึกฝนการพัฒนาซอฟต์แวร์ |
+| **💡 ความสนใจหลัก** | Full-Stack Development, Software Engineering, AI, Game Development, อุตสาหกรรม Animation |
+| **🎯 เป้าหมายระยะยาว** | Software Engineer & Game Engine Developer |
+| **🔥 แนวคิดการทำงาน** | เรียนรู้และอัปเกรดตัวเองให้เก่งขึ้นในทุกวัน |
 
 ---
 
-### 👋 About Me | เกี่ยวกับฉัน
+### 👋 แนะนำตัว (About Me)
 
-สวัสดีครับ ผมชื่อ **Nut (นัท)** เป็นนักศึกษาสาขาเทคโนโลยีสารสนเทศ มหาวิทยาลัยเกษตรศาสตร์
+สวัสดีครับ ผมชื่อ **นัท (Nut)** ปัจจุบันกำลังศึกษาอยู่สาขาเทคโนโลยีสารสนเทศ มหาวิทยาลัยเกษตรศาสตร์
 
-ผมเป็นคนที่ชื่นชอบเทคโนโลยี คอมพิวเตอร์ และเกม ปัจจุบันกำลังเรียนรู้และค้นหาเส้นทางของตัวเองในสายงาน IT โดยเฉพาะการพัฒนาซอฟต์แวร์และการสร้างสิ่งใหม่ ๆ ด้วย Programming
+ผมเป็นคนที่หลงใหลในเทคโนโลยี คอมพิวเตอร์ และโลกของเกม ตอนนี้กำลังเรียนรู้และค้นหาเส้นทางของตัวเองในสายงาน IT โดยเฉพาะการพัฒนาซอฟต์แวร์และการสร้างสรรค์สิ่งใหม่ ๆ ผ่านการเขียนโปรแกรม
 
-ผมสนใจการพัฒนา Web Applications, Full-Stack Development และการนำ AI มาใช้แก้ปัญหาในชีวิตประจำวัน รวมถึงการออกแบบระบบที่สามารถนำไปใช้งานได้จริง
+ผมให้ความสนใจกับการพัฒนา **Web Applications**, **Full-Stack Development** และการนำ **AI** มาประยุกต์ใช้แก้ปัญหาในชีวิตประจำวัน รวมถึงการออกแบบระบบที่สามารถนำไปใช้งานได้จริง
 
-นอกจากสาย Software แล้ว ผมยังมีความฝันที่จะได้ทำงานในอุตสาหกรรมเกม ไม่ว่าจะเป็น Game Development, Game Engine Development หรือเทคโนโลยีเบื้องหลัง Animation และ Digital Content
+นอกจากสายงานซอฟต์แวร์ทั่วไปแล้ว ผมยังมีความฝันที่จะได้ก้าวเข้าสู่อุตสาหกรรมเกม ไม่ว่าจะเป็น **Game Development**, **Game Engine Development** หรือเทคโนโลยีเบื้องหลังงาน **Animation** และ Digital Content
 
-สำหรับผม การเขียนโปรแกรมไม่ใช่เพียงการเขียนคำสั่งให้คอมพิวเตอร์ทำงาน แต่เป็นการใช้ความคิดสร้างสรรค์และการแก้ปัญหาเพื่อสร้างประสบการณ์ใหม่ ๆ ให้กับผู้คน
+สำหรับผม การเขียนโปรแกรมไม่ใช่แค่การพิมพ์คำสั่งให้คอมพิวเตอร์ทำงาน แต่คือการใช้ความคิดสร้างสรรค์และการแก้ปัญหา เพื่อสร้างประสบการณ์ใหม่ ๆ ที่น่าจดจำให้กับผู้ใช้งาน
 
-> *"I don't need to know everything today. I just need to be better than yesterday."*
+> *"ไม่จำเป็นต้องรู้ทุกอย่างตั้งแต่วันนี้ ขอแค่เก่งขึ้นกว่าเมื่อวานก็พอ"*
 
 ---
 
-## ⚡ 02 — DEVELOPER CONTROL CENTER
+## ⚡ 02 — ศูนย์ควบคุมและเป้าหมาย (DEVELOPER CONTROL CENTER)
 
 <div align="center">
 
-| 🎓 EDUCATION | 💻 CURRENT STATUS | 🎯 DESTINATION |
+| 🎓 การศึกษา | 💻 สถานะปัจจุบัน | 🎯 เป้าหมายปลายทาง |
 |:---:|:---:|:---:|
-| IT Student | Learning & Building | Game Engine Developer |
-| Kasetsart University | Personal Projects | Software Engineer |
+| นิสิตสาขา IT | เรียนรู้ & สร้างโปรเจกต์ | Game Engine Developer |
+| มหาวิทยาลัยเกษตรศาสตร์ | ฝึกฝนทักษะการเขียนโค้ด | Software Engineer |
 
 </div>
 
-### 🧭 Current Focus
+### 🧭 สิ่งที่กำลังโฟกัสในตอนนี้
 
-| Category | Current Direction |
+| หมวดหมู่ | แนวทางที่กำลังเรียนรู้ |
 |:---|:---|
-| **Programming** | Python & Programming Fundamentals |
-| **Software** | Object-Oriented Programming (OOP) |
-| **Database** | Database Management & SQL |
-| **Web** | Frontend & Backend Development |
-| **AI** | AI Integration & Automation |
-| **Career** | Full-Stack / Software Engineering |
+| **Programming** | พื้นฐานการเขียนโปรแกรมและภาษา `Python` |
+| **Software** | การเขียนโปรแกรมเชิงวัตถุ (`Object-Oriented Programming`) |
+| **Database** | การออกแบบและจัดการฐานข้อมูล (`Database & SQL`) |
+| **Web** | การพัฒนาเว็บไซต์ทั้งส่วนหน้าบ้านและหลังบ้าน (`Frontend & Backend`) |
+| **AI** | การเชื่อมต่อ `AI` และสร้างระบบทำงานอัตโนมัติ (`Automation`) |
+| **Career** | เตรียมความพร้อมสู่สายงาน `Full-Stack` และ `Software Engineering` |
 
-### 🎯 Career Mission
+### 🎯 ภารกิจสายอาชีพ (Career Mission)
 
 1. **Full-Stack Developer** — พัฒนาเว็บแอปพลิเคชันแบบครบวงจรทั้งหน้าบ้านและหลังบ้าน
-2. **Software Engineering** — ออกแบบสถาปัตยกรรมซอฟต์แวร์ที่เป็นระบบและขยายต่อได้
-3. **Game Development** — สร้างสรรค์เกมและระบบการเล่นที่น่าสนใจ
-4. **AI & Automation** — ประยุกต์ใช้ปัญญาประดิษฐ์และระบบอัตโนมัติในงานจริง
-5. **Animation Industry** — ศึกษาเทคโนโลยีเบื้องหลังงานแอนิเมชันและดิจิทัลคอนเทนต์
-6. **Game Engine Developer** — พัฒนาระบบเอนจินและเครื่องมือหลักสำหรับการสร้างเกม
+2. **Software Engineering** — ออกแบบโครงสร้างซอฟต์แวร์ที่เป็นระบบ เสถียร และต่อยอดได้ง่าย
+3. **Game Development** — สร้างสรรค์เกมและออกแบบระบบการเล่นที่สนุกและมีเอกลักษณ์
+4. **AI & Automation** — นำปัญญาประดิษฐ์มาช่วยทุ่นแรงและเพิ่มประสิทธิภาพการทำงานในชีวิตจริง
+5. **Animation Industry** — ศึกษาเทคโนโลยีและเครื่องมือเบื้องหลังการผลิตแอนิเมชันและสื่อดิจิทัล
+6. **Game Engine Developer** — เจาะลึกระบบเอนจินและโครงสร้างพื้นฐานที่เป็นหัวใจของการสร้างเกม
 
 ---
 
-## 🧠 03 — SKILL MATRIX
+## 🧠 03 — คลังทักษะและเครื่องมือ (SKILL MATRIX)
 
-*My technology stack is evolving as I learn and build more projects.*
+*ทักษะและเทคโนโลยีเหล่านี้กำลังเติบโตขึ้นตามประสบการณ์และโปรเจกต์ที่ผมได้ลงมือทำ*
 
-| หมวดหมู่ (Category) | ทักษะและเครื่องมือ (Skills & Tools) |
+| หมวดหมู่ | ทักษะและเครื่องมือที่ใช้ |
 |:---|:---|
-| **💻 Programming Languages** | `Python` • `JavaScript` • `HTML5` • `CSS3` |
-| **🌐 Frameworks & Libraries** | `React` • `Node.js` • `Tailwind CSS` |
-| **🗄️ Tools & Environment** | `Git` • `GitHub` • `VS Code` • `DaVinci Resolve` • `OBS Studio` |
-| **🔬 Exploring Next** | `TypeScript` • `Docker` • `PostgreSQL` • `C++` • `Unity` • `Unreal Engine` |
+| **💻 ภาษาโปรแกรม (Languages)** | `Python` • `JavaScript` • `HTML5` • `CSS3` |
+| **🌐 เฟรมเวิร์กและไลบรารี (Frameworks)** | `React` • `Node.js` • `Tailwind CSS` |
+| **🗄️ เครื่องมือและสภาพแวดล้อม (Tools)** | `Git` • `GitHub` • `VS Code` • `DaVinci Resolve` • `OBS Studio` |
+| **🔬 เทคโนโลยีที่สนใจศึกษาต่อ (Exploring)** | `TypeScript` • `Docker` • `PostgreSQL` • `C++` • `Unity` • `Unreal Engine` |
 
 ---
 
-## 🚀 04 — PROJECT LABORATORY
+## 🚀 04 — ห้องทดลองโปรเจกต์ (PROJECT LABORATORY)
 
-*Ideas become projects. Projects become experience.*
+*เปลี่ยนไอเดียให้เป็นโปรเจกต์ และเปลี่ยนโปรเจกต์ให้เป็นประสบการณ์จริง*
 
 ### 💰 PROJECT 001 — PERSONAL FINANCE DASHBOARD
 
-**Personal Financial Management System**
+**ระบบจัดการและวิเคราะห์การเงินส่วนบุคคล**
 
-ระบบจัดการการเงินส่วนบุคคลที่ต้องการพัฒนาขึ้นเพื่อใช้ติดตามและวิเคราะห์สถานะทางการเงินของตัวเอง
+โปรเจกต์เว็บแอปพลิเคชันสำหรับใช้บันทึกรายรับ-รายจ่าย ติดตามเงินออม และวิเคราะห์สถานะทางการเงินของตัวเองให้ง่ายต่อการวางแผน
 
-* **Planned Features:**
-  * Income & Expense Tracking
-  * Wallet and Account Management
-  * Savings & Investment Tracking
-  * Monthly Financial Reports
-  * Interactive Dashboard & Data Visualization
-* **Tech Stack:** `Python` `Database` `Web Development` `Data Visualization`
+* **ฟีเจอร์ที่วางแผนไว้:**
+  * บันทึกและแยกหมวดหมู่รายรับ-รายจ่ายประจำวัน
+  * จัดการบัญชีและกระเป๋าเงินหลายรูปแบบ
+  * ติดตามเป้าหมายการออมและการลงทุน
+  * สรุปรายงานการเงินรายเดือนในรูปแบบกราฟ (`Data Visualization`)
+* **เทคโนโลยีที่ใช้:** `Python` `Database` `Web Development` `Data Visualization`
 
 ---
 
 ### 🤖 PROJECT 002 — PAIMON AI ASSISTANT
 
-**AI-Powered Personal Assistant**
+**ผู้ช่วยอัจฉริยะส่วนตัวพลัง AI**
 
-แนวคิดผู้ช่วยอัจฉริยะที่ได้รับแรงบันดาลใจจาก Paimon ใน Genshin Impact โดยต้องการนำ AI มาประยุกต์ใช้กับชีวิตประจำวัน
+โปรเจกต์ที่ได้รับแรงบันดาลใจจากตัวละคร Paimon ในเกม Genshin Impact โดยตั้งใจนำ `AI` มาช่วยจัดการตารางชีวิตและงานประจำวันให้สะดวกขึ้น
 
-* **Planned Features:**
-  * AI Personal Assistant
-  * Daily Task Management
-  * Smart Automation
-  * Personal Information Management
-  * Productivity Dashboard
-* **Tech Stack:** `Python` `AI` `Automation` `Web Application`
+* **ฟีเจอร์ที่วางแผนไว้:**
+  * ระบบผู้ช่วยโต้ตอบและช่วยค้นหาข้อมูลด้วย AI
+  * จัดการรายการสิ่งที่ต้องทำ (`Daily Task Management`)
+  * ระบบแจ้งเตือนและทำงานอัตโนมัติ (`Smart Automation`)
+  * หน้าแดชบอร์ดรวบรวมข้อมูลส่วนตัวและการนัดหมาย
+* **เทคโนโลยีที่ใช้:** `Python` `AI` `Automation` `Web Application`
 
 ---
 
 ### 🌐 PROJECT 003 — DEVELOPER PORTFOLIO
 
-**Personal Developer Portfolio**
+**เว็บไซต์รวบรวมผลงานและโปรไฟล์นักพัฒนา**
 
-พื้นที่รวบรวมผลงาน ความสามารถ และพัฒนาการของตัวเองในเส้นทาง Developer
+พื้นที่ออนไลน์สำหรับจัดแสดงผลงาน ทักษะ และบันทึกเส้นทางการเติบโตของตัวเองในสายงาน Software Developer
 
-* **Planned Features:**
-  * Personal Introduction & Project Showcase
-  * Developer Dashboard
-  * Technology Stack & GitHub Analytics
-* **Tech Stack:** `HTML` `CSS` `JavaScript` `GitHub`
+* **ฟีเจอร์ที่วางแผนไว้:**
+  * หน้าแนะนำตัวและเล่าเรื่องราวเส้นทางการเรียนรู้
+  * แกลเลอรีจัดแสดงโปรเจกต์พร้อมตัวอย่างการทำงาน
+  * แสดงสถิติการเขียนโค้ดจาก GitHub แบบเรียลไทม์
+* **เทคโนโลยีที่ใช้:** `HTML` `CSS` `JavaScript` `GitHub`
 
-> **Status:** *Idea & Planning — Repository links and implementation details will be added as development progresses.*
+> **สถานะปัจจุบัน:** *โปรเจกต์ทั้งหมดอยู่ในขั้นตอนการออกแบบและวางแผนพัฒนา จะอัปเดตลิงก์ Repository และรายละเอียดเพิ่มเติมเมื่อเริ่มลงมือเขียนโค้ดจริงครับ*
 
 ---
 
-## 📊 05 — GITHUB ANALYTICS
+## 📊 05 — สถิติการเขียนโค้ด (GITHUB ANALYTICS)
 
 <div align="center">
 
-### SYSTEM PERFORMANCE
+### ภาพรวมการทำงานและภาษาที่ใช้บ่อย
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nanthawat83&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=090014&title_color=00E5FF&icon_color=BB86FC&text_color=E6E6FA&rank_icon=github" width="100%"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nanthawat83&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=090014&title_color=00E5FF&icon_color=BB86FC&text_color=E6E6FA&rank_icon=github" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanthawat83&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=E6E6FA" height="175"/>
+</p>
 
-### LANGUAGE DISTRIBUTION
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanthawat83&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=E6E6FA" width="48%"/>
-
-### CONTRIBUTION STREAK
+### ความต่อเนื่องในการเขียนโค้ด (CONTRIBUTION STREAK)
 
 <img src="https://streak-stats.demolab.com?user=Nanthawat83&theme=tokyonight&hide_border=true&background=090014&ring=00E5FF&fire=BB86FC&currStreakLabel=00E5FF&sideLabels=E6E6FA" width="100%"/>
 
-### GITHUB TROPHIES
+### รางวัลความสำเร็จ (GITHUB TROPHIES)
 
 <img src="https://github-profile-trophy.vercel.app/?username=Nanthawat83&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=10" width="100%"/>
 
-### CONTRIBUTION GRAPH
+### กราฟความเคลื่อนไหว (CONTRIBUTION GRAPH)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nanthawat83&bg_color=090014&color=00E5FF&line=BB86FC&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CONTRIBUTION%20JOURNEY" width="100%"/>
 
@@ -186,26 +175,26 @@
 
 ---
 
-## 🗺️ 06 — CAREER ROADMAP
+## 🗺️ 06 — แผนที่เส้นทางอาชีพ (CAREER ROADMAP)
 
 <div align="center">
 
-### FROM STUDENT TO SOFTWARE & GAME ENGINEER
+### เส้นทางการเติบโตจากนิสิตไอที สู่สายงาน Software & Game Engineering
 
 </div>
 
 ```mermaid
 flowchart TD
-    A["🎓 IT Student @ Kasetsart University"] --> B["💻 Programming Fundamentals & OOP"]
-    B --> C["🗄️ Database Systems & SQL"]
-    C --> D["🌐 Full-Stack Web Development"]
-    D --> E["⚙️ Software Engineering"]
+    A["🎓 นิสิตสาขาเทคโนโลยีสารสนเทศ (IT Student)"] --> B["💻 พื้นฐานการเขียนโปรแกรม & OOP"]
+    B --> C["🗄️ ระบบฐานข้อมูล & SQL"]
+    C --> D["🌐 การพัฒนาเว็บครบวงจร (Full-Stack)"]
+    D --> E["⚙️ วิศวกรรมซอฟต์แวร์ (Software Engineering)"]
     
-    E --> F["🤖 AI & Smart Automation"]
-    E --> G["🎮 Game Development"]
+    E --> F["🤖 AI & ระบบอัตโนมัติ (Automation)"]
+    E --> G["🎮 การพัฒนาเกม (Game Development)"]
     
-    G --> H["🛠️ Game Engine Architecture"]
-    H --> I["🚀 Game Engine Developer"]
+    G --> H["🛠️ โครงสร้างระบบเอนจินเกม (Game Engine)"]
+    H --> I["🚀 นักพัฒนาเอนจินเกม (Game Engine Developer)"]
 
     style A fill:#1a103c,stroke:#00E5FF,stroke-width:2px,color:#fff
     style B fill:#1a103c,stroke:#BB86FC,stroke-width:1.5px,color:#fff
@@ -218,47 +207,46 @@ flowchart TD
     style I fill:#3b0d1e,stroke:#FF4D4D,stroke-width:2px,color:#fff
 ```
 
-### 🏁 Long-Term Milestones
+### 🏁 เป้าหมายสำคัญในแต่ละช่วง (Long-Term Milestones)
 
-* **Phase 1 — Foundation:** Build practical software projects and strengthen core computer science skills.
-* **Phase 2 — Experience:** Gain real-world development experience through Software Development internships.
-* **Phase 3 — Career:** Become a professional Software Engineer capable of building scalable systems.
-* **Phase 4 — Specialization:** Dive deep into C++, graphics programming, and Game Engine Development to work in the Game or Animation Industry.
+* **ระยะที่ 1 — ปูพื้นฐานให้แน่น:** สร้างโปรเจกต์ซอฟต์แวร์ที่ใช้งานได้จริง และฝึกฝนพื้นฐานวิทยาการคอมพิวเตอร์ให้แข็งแรง
+* **ระยะที่ 2 — เก็บเกี่ยวประสบการณ์จริง:** มองหาโอกาสฝึกงาน (`Internship`) ในสายงาน Software Development เพื่อเรียนรู้การทำงานร่วมกับทีมมืออาชีพ
+* **ระยะที่ 3 — ก้าวสู่มืออาชีพ:** เติบโตเป็น `Software Engineer` ที่สามารถออกแบบและพัฒนาระบบขนาดใหญ่ได้
+* **ระยะที่ 4 — เจาะลึกสายเกม:** ศึกษาภาษา `C++`, `Graphics Programming` และสถาปัตยกรรม `Game Engine` เพื่อก้าวเข้าสู่อุตสาหกรรมเกมหรือแอนิเมชันอย่างเต็มตัว
 
 ---
 
-## 🎮 07 — BEYOND THE CODE
+## 🎮 07 — โลกนอกเหนือจากโค้ด (BEYOND THE CODE)
 
-**A developer is more than just code.**
+**นักพัฒนาซอฟต์แวร์ไม่ได้มีแค่เรื่องโค้ด แต่ยังมีแรงบันดาลใจจากสิ่งรอบตัว**
 
-| Category | My Interests |
+| หมวดหมู่ | สิ่งที่สนใจและงานอดิเรก |
 |:---|:---|
-| **🎮 Gaming** | Genshin Impact, Monster Hunter, NBA 2K, RPG |
-| **🖥️ Technology** | PC Hardware, Computer Systems, Gaming Setup |
-| **🎬 Creative** | Animation, Video Editing, Content Creation |
-| **🤖 Innovation** | AI, Automation, New Technologies |
-| **📈 Finance** | Personal Finance, Saving, Investing |
+| **🎮 เกม (Gaming)** | Genshin Impact, Monster Hunter, NBA 2K, เกมแนว RPG |
+| **🖥️ เทคโนโลยี (Tech)** | อุปกรณ์คอมพิวเตอร์ (PC Hardware), สถาปัตยกรรมระบบ, การจัดโต๊ะคอม (Gaming Setup) |
+| **🎬 งานสร้างสรรค์ (Creative)** | งานแอนิเมชัน (Animation), การตัดต่อวิดีโอ, การสร้างคอนเทนต์ |
+| **🤖 นวัตกรรม (Innovation)** | เทคโนโลยี AI, ระบบอัตโนมัติ และเทรนด์เทคโนโลยีใหม่ ๆ |
+| **📈 การเงิน (Finance)** | การวางแผนการเงินส่วนบุคคล, การออม และการลงทุน |
 
-### 🎯 What Inspires Me
+### 🎯 สิ่งที่จุดประกายแรงบันดาลใจ
 
-* Game worlds and the engineering behind them.
-* Creative storytelling and animation.
-* Computer hardware and system architecture.
-* Building applications that solve real problems.
-* Learning how complex software systems work.
+* โลกในเกมและเบื้องหลังทางวิศวกรรมที่ทำให้เกมเหล่านั้นมีชีวิตขึ้นมา
+* การเล่าเรื่องผ่านงานภาพและแอนิเมชันที่สร้างสรรค์
+* การประกอบและปรับแต่งฮาร์ดแวร์คอมพิวเตอร์ให้ทำงานได้เต็มประสิทธิภาพ
+* การสร้างแอปพลิเคชันที่ช่วยแก้ปัญหาในชีวิตประจำวันได้จริง
 
 ---
 
-## 📡 08 — CONNECT WITH ME
+## 📡 08 — ช่องทางติดต่อ (CONNECT WITH ME)
 
 <div align="center">
 
-**LET'S LEARN, BUILD AND CREATE SOMETHING GREAT.**
+**ยินดีที่ได้รู้จักครับ! สามารถพูดคุย แลกเปลี่ยนความรู้ หรือร่วมทำโปรเจกต์ด้วยกันได้เสมอ**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nanthawat83-181717?style=for-the-badge&logo=github)](https://github.com/Nanthawat83)
-[![Profile](https://img.shields.io/badge/Explore-My_Repositories-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Nanthawat83?tab=repositories)
+[![Profile](https://img.shields.io/badge/ดูโปรเจกต์ทั้งหมด-My_Repositories-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Nanthawat83?tab=repositories)
 
-**Email:** `Nanthawat.chu@ku.th`
+**อีเมลติดต่อ:** `Nanthawat.chu@ku.th`
 
 </div>
 
@@ -268,9 +256,9 @@ flowchart TD
 
 ## ⚡ END OF TRANSMISSION
 
-**KEEP LEARNING. KEEP BUILDING. KEEP EXPLORING.**
+**เรียนรู้ต่อไป ลงมือสร้างต่อไป และไม่หยุดสำรวจสิ่งใหม่**
 
-*Every line of code is another step toward the future.*
+*โค้ดทุกบรรทัดที่เขียนในวันนี้ คือก้าวสำคัญสู่อนาคต*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:4B0082,100:090014&height=180&section=footer&animation=fadeIn" width="100%"/>
 
