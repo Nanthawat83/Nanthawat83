@@ -340,7 +340,7 @@ mindset: "Always Learning & Improving"
 
 **LET'S LEARN, BUILD AND CREATE SOMETHING GREAT.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Nutto1203-181717?style=for-the-badge&logo=github)](https://github.com/Nutto1203)
+[![GitHub](https://img.shields.io/badge/GitHub-Nutto1203-181717?style=for-the-badge&logo=github)](https://github.com/Nanthawat83)
 
 [![Profile](https://img.shields.io/badge/Explore-My_Repositories-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Nutto1203?tab=repositories)
 
