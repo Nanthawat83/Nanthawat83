@@ -8,9 +8,9 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Nutto1203-181717?style=for-the-badge&logo=github)](https://github.com/Nutto1203)
-[![Profile Views](https://komarev.com/ghpvc/?username=Nutto1203&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS)](https://github.com/Nutto1203)
-[![Status](https://img.shields.io/badge/STATUS-LEARNING-00E5FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/Nutto1203)
+[![GitHub](https://img.shields.io/badge/GitHub-Nutto1203-181717?style=for-the-badge&logo=github)](https://github.com/Nanthawat83)
+[![Profile Views](https://komarev.com/ghpvc/?username=Nutto1203&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS)](https://github.com/Nanthawat83)
+[![Status](https://img.shields.io/badge/STATUS-LEARNING-00E5FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/Nanthawat83)
 
 **IT STUDENT @ KASETSART UNIVERSITY 🇹🇭**
 
