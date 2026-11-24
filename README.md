@@ -26,7 +26,7 @@
 
 | หัวข้อ | รายละเอียด |
 |:---|:---|
-| **👤 ชื่อ / ชื่อเล่น** | นันทวัฒน์ (นัท / Nut) • `@Nanthawat83` |
+| **👤 ชื่อ / ชื่อเล่น** | ณัฐวัฒน์ (นัท / Nut) • `@Nanthawat83` |
 | **📍 ที่อยู่** | ประเทศไทย 🇹🇭 |
 | **🎓 การศึกษา** | นิสิตปริญญาตรี สาขาเทคโนโลยีสารสนเทศ (Information Technology) มหาวิทยาลัยเกษตรศาสตร์ |
 | **💼 สถานะปัจจุบัน** | นิสิตสายไอที & กำลังฝึกฝนการพัฒนาซอฟต์แวร์ |
@@ -89,13 +89,33 @@
 
 *ทักษะและเทคโนโลยีเหล่านี้กำลังเติบโตขึ้นตามประสบการณ์และโปรเจกต์ที่ผมได้ลงมือทำ*
 
-| หมวดหมู่ | ทักษะและเครื่องมือที่ใช้ |
-|:---|:---|
-| **💻 ภาษาโปรแกรม (Languages)** | `Python` • `JavaScript` • `HTML5` • `CSS3` |
-| **🌐 เฟรมเวิร์กและไลบรารี (Frameworks)** | `React` • `Node.js` • `Tailwind CSS` |
-| **🗄️ เครื่องมือและสภาพแวดล้อม (Tools)** | `Git` • `GitHub` • `VS Code` • `DaVinci Resolve` • `OBS Studio` |
-| **🔬 เทคโนโลยีที่สนใจศึกษาต่อ (Exploring)** | `TypeScript` • `Docker` • `PostgreSQL` • `C++` • `Unity` • `Unreal Engine` |
+### 💻 ภาษาโปรแกรม (Programming Languages)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css&theme=dark" alt="Programming Languages" />
+</p>
 
+`Python` • `Java` • `JavaScript` • `HTML5` • `CSS3`
+
+### 🌐 เฟรมเวิร์กและไลบรารี (Frameworks & Libraries)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind&theme=dark" alt="Frameworks" />
+</p>
+
+`React` • `Node.js` • `Tailwind CSS`
+
+### 🗄️ เครื่องมือและสภาพแวดล้อม (Tools & Environment)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
+</p>
+
+`Git` • `GitHub` • `VS Code` • `DaVinci Resolve` • `OBS Studio`
+
+### 🔬 เทคโนโลยีที่สนใจศึกษาต่อ (Exploring Next)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,docker,postgres,cpp,unity,unreal&theme=dark" alt="Exploring" />
+</p>
+
+`TypeScript` • `Docker` • `PostgreSQL` • `C++` • `Unity` • `Unreal Engine`
 ---
 
 ## 🚀 04 — ห้องทดลองโปรเจกต์ (PROJECT LABORATORY)
