@@ -48,11 +48,29 @@
 
 สำหรับผม การเขียนโปรแกรมไม่ใช่แค่การพิมพ์คำสั่งให้คอมพิวเตอร์ทำงาน แต่คือการใช้ความคิดสร้างสรรค์และการแก้ปัญหา เพื่อสร้างประสบการณ์ใหม่ ๆ ที่น่าจดจำให้กับผู้ใช้งาน
 
-> *"ไม่จำเป็นต้องรู้ทุกอย่างตั้งแต่วันนี้ ขอแค่เก่งขึ้นกว่าเมื่อวานก็พอ"*
+> **🎮 DEV & GAMER LOG — บันทึกจากสายเกมและโค้ด**
+>
+> * **Dev Quote:** *"ไม่จำเป็นต้องรู้ทุกอย่างตั้งแต่วันนี้ ขอแค่เก่งขึ้นกว่าเมื่อวานก็พอ"*
+> * **Fun Fact:** การเขียนโค้ดก็เหมือนการเล่นเกม RPG — ช่วงแรกอาจต้องฟาร์มเลเวลและตีมอนสเตอร์ (แก้ Bug) ซ้ำไปซ้ำมา แต่ทุก Error ที่แก้ผ่านคือค่าประสบการณ์ (EXP) ที่อัปสกิลให้เราเก่งขึ้นจริง!
 
 ---
 
-## ⚡ 02 — ศูนย์ควบคุมและเป้าหมาย (DEVELOPER CONTROL CENTER)
+## 📡 02 — ช่องทางติดต่อ (CONNECT WITH ME)
+
+<div align="center">
+
+**ยินดีที่ได้รู้จักครับ! สามารถพูดคุย แลกเปลี่ยนความรู้ หรือร่วมทำโปรเจกต์ด้วยกันได้เสมอ**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Nanthawat83-181717?style=for-the-badge&logo=github)](https://github.com/Nanthawat83)
+[![Profile](https://img.shields.io/badge/Repositories-ดูโปรเจกต์ทั้งหมด-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Nanthawat83?tab=repositories)
+
+**อีเมลติดต่อ:** `Nanthawat.chu@ku.th`
+
+</div>
+
+---
+
+## ⚡ 03 — ศูนย์ควบคุมและเป้าหมาย (DEVELOPER CONTROL CENTER)
 
 <div align="center">
 
@@ -85,7 +103,7 @@
 
 ---
 
-## 🧠 03 — คลังทักษะและเครื่องมือ (SKILL MATRIX)
+## 🧠 04 — คลังทักษะและเครื่องมือ (SKILL MATRIX)
 
 *ทักษะและเทคโนโลยีเหล่านี้กำลังเติบโตขึ้นตามประสบการณ์และโปรเจกต์ที่ผมได้ลงมือทำ*
 
@@ -116,9 +134,10 @@
 </p>
 
 `TypeScript` • `Docker` • `PostgreSQL` • `C++` • `Unity` • `Unreal Engine`
+
 ---
 
-## 🚀 04 — ห้องทดลองโปรเจกต์ (PROJECT LABORATORY)
+## 🚀 05 — ห้องทดลองโปรเจกต์ (PROJECT LABORATORY)
 
 *เปลี่ยนไอเดียให้เป็นโปรเจกต์ และเปลี่ยนโปรเจกต์ให้เป็นประสบการณ์จริง*
 
@@ -168,34 +187,40 @@
 
 ---
 
-## 📊 05 — สถิติการเขียนโค้ด (GITHUB ANALYTICS)
+## 📊 06 — สถิติการเขียนโค้ด (GITHUB ANALYTICS)
 
 <div align="center">
 
-### ภาพรวมการทำงานและภาษาที่ใช้บ่อย
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nanthawat83&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=090014&title_color=00E5FF&icon_color=BB86FC&text_color=E6E6FA&rank_icon=github" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanthawat83&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=E6E6FA" height="175"/>
-</p>
-
-### ความต่อเนื่องในการเขียนโค้ด (CONTRIBUTION STREAK)
-
-<img src="https://streak-stats.demolab.com?user=Nanthawat83&theme=tokyonight&hide_border=true&background=090014&ring=00E5FF&fire=BB86FC&currStreakLabel=00E5FF&sideLabels=E6E6FA" width="100%"/>
-
-### รางวัลความสำเร็จ (GITHUB TROPHIES)
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nanthawat83&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=10" width="100%"/>
-
-### กราฟความเคลื่อนไหว (CONTRIBUTION GRAPH)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nanthawat83&bg_color=090014&color=00E5FF&line=BB86FC&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CONTRIBUTION%20JOURNEY" width="100%"/>
+<table>
+  <tr>
+    <td width="55%" align="center">
+      <b>⚡ ภาพรวมสถิติ (GitHub Stats)</b><br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Nanthawat83&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=090014&title_color=00E5FF&icon_color=BB86FC&text_color=E6E6FA&rank_icon=github" width="100%"/>
+    </td>
+    <td width="45%" align="center">
+      <b>💻 ภาษาที่ใช้บ่อย (Top Languages)</b><br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanthawat83&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=E6E6FA" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <b>🔥 ความต่อเนื่องในการเขียนโค้ด (Contribution Streak)</b><br/><br/>
+      <img src="https://streak-stats.demolab.com?user=Nanthawat83&theme=tokyonight&hide_border=true&background=090014&ring=00E5FF&fire=BB86FC&currStreakLabel=00E5FF&sideLabels=E6E6FA" width="85%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <b>📈 กราฟความเคลื่อนไหว (Contribution Graph)</b><br/><br/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nanthawat83&bg_color=090014&color=00E5FF&line=BB86FC&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CONTRIBUTION%20JOURNEY" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🗺️ 06 — แผนที่เส้นทางอาชีพ (CAREER ROADMAP)
+## 🗺️ 07 — แผนที่เส้นทางอาชีพ (CAREER ROADMAP)
 
 <div align="center">
 
@@ -236,7 +261,7 @@ flowchart TD
 
 ---
 
-## 🎮 07 — โลกนอกเหนือจากโค้ด (BEYOND THE CODE)
+## 🎮 08 — โลกนอกเหนือจากโค้ด (BEYOND THE CODE)
 
 **นักพัฒนาซอฟต์แวร์ไม่ได้มีแค่เรื่องโค้ด แต่ยังมีแรงบันดาลใจจากสิ่งรอบตัว**
 
@@ -254,21 +279,6 @@ flowchart TD
 * การเล่าเรื่องผ่านงานภาพและแอนิเมชันที่สร้างสรรค์
 * การประกอบและปรับแต่งฮาร์ดแวร์คอมพิวเตอร์ให้ทำงานได้เต็มประสิทธิภาพ
 * การสร้างแอปพลิเคชันที่ช่วยแก้ปัญหาในชีวิตประจำวันได้จริง
-
----
-
-## 📡 08 — ช่องทางติดต่อ (CONNECT WITH ME)
-
-<div align="center">
-
-**ยินดีที่ได้รู้จักครับ! สามารถพูดคุย แลกเปลี่ยนความรู้ หรือร่วมทำโปรเจกต์ด้วยกันได้เสมอ**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Nanthawat83-181717?style=for-the-badge&logo=github)](https://github.com/Nanthawat83)
-[![Profile](https://img.shields.io/badge/ดูโปรเจกต์ทั้งหมด-My_Repositories-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Nanthawat83?tab=repositories)
-
-**อีเมลติดต่อ:** `Nanthawat.chu@ku.th`
-
-</div>
 
 ---
 
