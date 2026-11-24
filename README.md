@@ -342,7 +342,7 @@ mindset: "Always Learning & Improving"
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nutto1203-181717?style=for-the-badge&logo=github)](https://github.com/Nanthawat83)
 
-[![Profile](https://img.shields.io/badge/Explore-My_Repositories-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Nutto1203?tab=repositories)
+[![Profile](https://img.shields.io/badge/Explore-My_Repositories-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Nanthawat83?tab=repositories)
 
 Email: Nanthawat.chu@ku.th
 
