@@ -30,35 +30,19 @@
 
 ## 🖥️ 01 — SYSTEM PROFILE
 
-```yaml
-# USER PROFILE CONFIGURATION
+### 📋 Identity & Overview
 
-username: "Nanthawat83"
-nickname: "Nut"
-location: "Thailand 🇹🇭"
+| หัวข้อ (Attribute) | รายละเอียด (Details) |
+|:---|:---|
+| **👤 Name / Alias** | Nanthawat (Nut / นัท) • `@Nanthawat83` |
+| **📍 Location** | Thailand 🇹🇭 |
+| **🎓 Education** | Undergraduate Student in **Information Technology**, Kasetsart University |
+| **💼 Current Role** | IT Student & Aspiring Software Developer |
+| **💡 Primary Interests** | Full-Stack Development, Software Engineering, Artificial Intelligence, Game Development, Animation Industry |
+| **🎯 Long-Term Goals** | Software Engineer & Game Engine Developer |
+| **🔥 Mindset** | *Always Learning & Improving* |
 
-education:
-  university: "Kasetsart University"
-  faculty: "Information Technology"
-  status: "Undergraduate Student"
-
-current_role:
-- "IT Student"
-- "Aspiring Developer"
-
-primary_interests:
-- Full-Stack Development
-- Software Engineering
-- Artificial Intelligence
-- Game Development
-- Animation Industry
-
-long_term_goal:
-- "Software Engineer"
-- "Game Engine Developer"
-
-mindset: "Always Learning & Improving"
-```
+---
 
 ### 👋 About Me | เกี่ยวกับฉัน
 
@@ -72,7 +56,7 @@ mindset: "Always Learning & Improving"
 
 สำหรับผม การเขียนโปรแกรมไม่ใช่เพียงการเขียนคำสั่งให้คอมพิวเตอร์ทำงาน แต่เป็นการใช้ความคิดสร้างสรรค์และการแก้ปัญหาเพื่อสร้างประสบการณ์ใหม่ ๆ ให้กับผู้คน
 
-> "I don't need to know everything today. I just need to be better than yesterday."
+> *"I don't need to know everything today. I just need to be better than yesterday."*
 
 ---
 
@@ -91,25 +75,21 @@ mindset: "Always Learning & Improving"
 
 | Category | Current Direction |
 |:---|:---|
-| Programming | Python & Programming Fundamentals |
-| Software | Object-Oriented Programming |
-| Database | Database Management & SQL |
-| Web | Frontend & Backend Development |
-| AI | AI Integration & Automation |
-| Career | Full-Stack / Software Engineering |
+| **Programming** | Python & Programming Fundamentals |
+| **Software** | Object-Oriented Programming (OOP) |
+| **Database** | Database Management & SQL |
+| **Web** | Frontend & Backend Development |
+| **AI** | AI Integration & Automation |
+| **Career** | Full-Stack / Software Engineering |
 
 ### 🎯 Career Mission
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-FULL--STACK_DEVELOPER-00E5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/02-SOFTWARE_ENGINEERING-BB86FC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/03-GAME_DEVELOPMENT-FF4D9D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/04-AI_&_AUTOMATION-00DFA2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/05-ANIMATION_INDUSTRY-FFB84D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/06-GAME_ENGINE_DEVELOPER-FF4D4D?style=for-the-badge"/>
-
-</div>
+1. **Full-Stack Developer** — พัฒนาเว็บแอปพลิเคชันแบบครบวงจรทั้งหน้าบ้านและหลังบ้าน
+2. **Software Engineering** — ออกแบบสถาปัตยกรรมซอฟต์แวร์ที่เป็นระบบและขยายต่อได้
+3. **Game Development** — สร้างสรรค์เกมและระบบการเล่นที่น่าสนใจ
+4. **AI & Automation** — ประยุกต์ใช้ปัญญาประดิษฐ์และระบบอัตโนมัติในงานจริง
+5. **Animation Industry** — ศึกษาเทคโนโลยีเบื้องหลังงานแอนิเมชันและดิจิทัลคอนเทนต์
+6. **Game Engine Developer** — พัฒนาระบบเอนจินและเครื่องมือหลักสำหรับการสร้างเกม
 
 ---
 
@@ -117,51 +97,12 @@ mindset: "Always Learning & Improving"
 
 *My technology stack is evolving as I learn and build more projects.*
 
-### 💻 Programming Languages
-
-<div align="left">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
-### 🌐 Frameworks & Libraries
-
-<div align="left">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</div>
-
-### 🗄️ Tools & Environment
-
-<div align="left">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
-![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
-
-</div>
-
-### 🔬 Technologies I Want to Explore
-
-<div align="left">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-</div>
+| หมวดหมู่ (Category) | ทักษะและเครื่องมือ (Skills & Tools) |
+|:---|:---|
+| **💻 Programming Languages** | `Python` • `JavaScript` • `HTML5` • `CSS3` |
+| **🌐 Frameworks & Libraries** | `React` • `Node.js` • `Tailwind CSS` |
+| **🗄️ Tools & Environment** | `Git` • `GitHub` • `VS Code` • `DaVinci Resolve` • `OBS Studio` |
+| **🔬 Exploring Next** | `TypeScript` • `Docker` • `PostgreSQL` • `C++` • `Unity` • `Unreal Engine` |
 
 ---
 
@@ -171,67 +112,49 @@ mindset: "Always Learning & Improving"
 
 ### 💰 PROJECT 001 — PERSONAL FINANCE DASHBOARD
 
-<img align="right" width="100" src="https://img.shields.io/badge/PROJECT-001-00E5FF?style=for-the-badge"/>
-
 **Personal Financial Management System**
 
 ระบบจัดการการเงินส่วนบุคคลที่ต้องการพัฒนาขึ้นเพื่อใช้ติดตามและวิเคราะห์สถานะทางการเงินของตัวเอง
 
-**Planned Features:**
-- Income & Expense Tracking
-- Wallet and Account Management
-- Savings & Investment Tracking
-- Monthly Financial Reports
-- Interactive Dashboard
-- Data Visualization
-
-`Python` `Database` `Web Development` `Data Visualization`
+* **Planned Features:**
+  * Income & Expense Tracking
+  * Wallet and Account Management
+  * Savings & Investment Tracking
+  * Monthly Financial Reports
+  * Interactive Dashboard & Data Visualization
+* **Tech Stack:** `Python` `Database` `Web Development` `Data Visualization`
 
 ---
 
 ### 🤖 PROJECT 002 — PAIMON AI ASSISTANT
 
-<img align="right" width="100" src="https://img.shields.io/badge/PROJECT-002-BB86FC?style=for-the-badge"/>
-
 **AI-Powered Personal Assistant**
 
 แนวคิดผู้ช่วยอัจฉริยะที่ได้รับแรงบันดาลใจจาก Paimon ใน Genshin Impact โดยต้องการนำ AI มาประยุกต์ใช้กับชีวิตประจำวัน
 
-**Planned Features:**
-- AI Personal Assistant
-- Daily Task Management
-- Smart Automation
-- Personal Information Management
-- Productivity Dashboard
-
-`Python` `AI` `Automation` `Web Application`
+* **Planned Features:**
+  * AI Personal Assistant
+  * Daily Task Management
+  * Smart Automation
+  * Personal Information Management
+  * Productivity Dashboard
+* **Tech Stack:** `Python` `AI` `Automation` `Web Application`
 
 ---
 
 ### 🌐 PROJECT 003 — DEVELOPER PORTFOLIO
 
-<img align="right" width="100" src="https://img.shields.io/badge/PROJECT-003-FF4D9D?style=for-the-badge"/>
-
 **Personal Developer Portfolio**
 
 พื้นที่รวบรวมผลงาน ความสามารถ และพัฒนาการของตัวเองในเส้นทาง Developer
 
-**Planned Features:**
-- Personal Introduction
-- Project Showcase
-- Developer Dashboard
-- Technology Stack
-- GitHub Analytics
+* **Planned Features:**
+  * Personal Introduction & Project Showcase
+  * Developer Dashboard
+  * Technology Stack & GitHub Analytics
+* **Tech Stack:** `HTML` `CSS` `JavaScript` `GitHub`
 
-`HTML` `CSS` `JavaScript` `GitHub`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PROJECT_STATUS-IDEA_&_PLANNING-8A2BE2?style=for-the-badge"/>
-
-</div>
-
-> These projects are currently concepts and learning goals. Repository links and implementation details will be added as development progresses.
+> **Status:** *Idea & Planning — Repository links and implementation details will be added as development progresses.*
 
 ---
 
@@ -267,48 +190,40 @@ mindset: "Always Learning & Improving"
 
 <div align="center">
 
-### FROM STUDENT TO SOFTWARE ENGINEER
+### FROM STUDENT TO SOFTWARE & GAME ENGINEER
 
 </div>
 
-```text
-          [ IT STUDENT ]
-                 |
-                 v
-    [ PROGRAMMING FUNDAMENTALS ]
-                 |
-                 v
-       [ OBJECT-ORIENTED PROGRAMMING ]
-                 |
-                 v
-          [ DATABASE & SQL ]
-                 |
-                 v
-       [ FULL-STACK DEVELOPMENT ]
-                 |
-                 v
-        [ SOFTWARE ENGINEERING ]
-                 |
-         +-------+-------+
-         |               |
-         v               v
-  [ AI & AUTOMATION ] [ GAME DEVELOPMENT ]
-                             |
-                             v
-                    [ GAME ENGINE SYSTEMS ]
-                             |
-                             v
-                    [ GAME ENGINE DEVELOPER ]
+```mermaid
+flowchart TD
+    A["🎓 IT Student @ Kasetsart University"] --> B["💻 Programming Fundamentals & OOP"]
+    B --> C["🗄️ Database Systems & SQL"]
+    C --> D["🌐 Full-Stack Web Development"]
+    D --> E["⚙️ Software Engineering"]
+    
+    E --> F["🤖 AI & Smart Automation"]
+    E --> G["🎮 Game Development"]
+    
+    G --> H["🛠️ Game Engine Architecture"]
+    H --> I["🚀 Game Engine Developer"]
+
+    style A fill:#1a103c,stroke:#00E5FF,stroke-width:2px,color:#fff
+    style B fill:#1a103c,stroke:#BB86FC,stroke-width:1.5px,color:#fff
+    style C fill:#1a103c,stroke:#BB86FC,stroke-width:1.5px,color:#fff
+    style D fill:#1a103c,stroke:#00E5FF,stroke-width:1.5px,color:#fff
+    style E fill:#241044,stroke:#00E5FF,stroke-width:2px,color:#fff
+    style F fill:#102a2a,stroke:#00DFA2,stroke-width:2px,color:#fff
+    style G fill:#2d102a,stroke:#FF4D9D,stroke-width:2px,color:#fff
+    style H fill:#2d102a,stroke:#FF4D9D,stroke-width:1.5px,color:#fff
+    style I fill:#3b0d1e,stroke:#FF4D4D,stroke-width:2px,color:#fff
 ```
 
-### 🏁 Long-Term Goals
+### 🏁 Long-Term Milestones
 
-- Build practical software projects.
-- Gain real-world development experience.
-- Find an internship in Software Development.
-- Become a professional Software Engineer.
-- Explore Game Engine Development.
-- Work in the Game or Animation Industry.
+* **Phase 1 — Foundation:** Build practical software projects and strengthen core computer science skills.
+* **Phase 2 — Experience:** Gain real-world development experience through Software Development internships.
+* **Phase 3 — Career:** Become a professional Software Engineer capable of building scalable systems.
+* **Phase 4 — Specialization:** Dive deep into C++, graphics programming, and Game Engine Development to work in the Game or Animation Industry.
 
 ---
 
@@ -318,19 +233,19 @@ mindset: "Always Learning & Improving"
 
 | Category | My Interests |
 |:---|:---|
-| 🎮 Gaming | Genshin Impact, Monster Hunter, NBA 2K, RPG |
-| 🖥️ Technology | PC Hardware, Computer Systems, Gaming Setup |
-| 🎬 Creative | Animation, Video Editing, Content Creation |
-| 🤖 Innovation | AI, Automation, New Technologies |
-| 📈 Finance | Personal Finance, Saving, Investing |
+| **🎮 Gaming** | Genshin Impact, Monster Hunter, NBA 2K, RPG |
+| **🖥️ Technology** | PC Hardware, Computer Systems, Gaming Setup |
+| **🎬 Creative** | Animation, Video Editing, Content Creation |
+| **🤖 Innovation** | AI, Automation, New Technologies |
+| **📈 Finance** | Personal Finance, Saving, Investing |
 
 ### 🎯 What Inspires Me
 
-- Game worlds and their technology.
-- Creative storytelling and animation.
-- Computer hardware and system architecture.
-- Building applications that solve real problems.
-- Learning how complex software systems work.
+* Game worlds and the engineering behind them.
+* Creative storytelling and animation.
+* Computer hardware and system architecture.
+* Building applications that solve real problems.
+* Learning how complex software systems work.
 
 ---
 
@@ -341,10 +256,9 @@ mindset: "Always Learning & Improving"
 **LET'S LEARN, BUILD AND CREATE SOMETHING GREAT.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nanthawat83-181717?style=for-the-badge&logo=github)](https://github.com/Nanthawat83)
-
 [![Profile](https://img.shields.io/badge/Explore-My_Repositories-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Nanthawat83?tab=repositories)
 
-Email: Nanthawat.chu@ku.th
+**Email:** `Nanthawat.chu@ku.th`
 
 </div>
 
