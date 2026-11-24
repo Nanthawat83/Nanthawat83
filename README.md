@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:090014,35:241044,70:4B0082,100:00E5FF&text=NUTTO1203&fontSize=75&fontColor=FFFFFF&stroke=00E5FF&strokeWidth=1&animation=fadeIn&desc=DEVELOPER%20%7C%20GAMER%20%7C%20CREATOR&descSize=17&descAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:090014,35:241044,70:4B0082,100:00E5FF&text=Nanthawat83&fontSize=75&fontColor=FFFFFF&stroke=00E5FF&strokeWidth=1&animation=fadeIn&desc=DEVELOPER%20%7C%20GAMER%20%7C%20CREATOR&descSize=17&descAlignY=68" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Nut+%F0%9F%AB%A1;Aspiring+Full-Stack+Developer;Exploring+Software+Engineering;Dreaming+of+Game+Engine+Development;Learning+Today.+Building+Tomorrow." alt="Typing SVG"/>
 
